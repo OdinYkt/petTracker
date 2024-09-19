@@ -1,0 +1,11 @@
+environs==11.0.0
+python-telegram-bot==21.3
+python-telegram-bot[job-queue]
+
+piccolo[sqlite]==1.13.1
+
+folium
+
+xvfbwrapper==0.2.9
+selenium==4.22.0
+webdriver-manager==4.0.2
